@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24eea1956bef46846803ee1566c51240, type: 3}
+  m_Name: Venus Areas
+  m_EditorClassIdentifier: 
+  texture: {fileID: 0}
+  splats:
+  - name: Sand
+    color: {r: 0.89019614, g: 0.7568628, b: 0.6627451, a: 1}
+  - name: Grass
+    color: {r: 0.37647063, g: 0.43921572, b: 0.227451, a: 1}
+  - name: Stone
+    color: {r: 0.6, g: 0.5372549, b: 0.49803925, a: 1}
+  - name: Rock
+    color: {r: 0.7058824, g: 0.61960787, b: 0.5176471, a: 1}
+  - name: Ice
+    color: {r: 0.882353, g: 0.8941177, b: 0.92549026, a: 1}
